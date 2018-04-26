@@ -1,7 +1,7 @@
 # LDJam-Local-Favorite-List-Userscript
 Add games into a list, so I can play it later
 
-You need s some browser extension like [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)(Chrome) to install userscript.
+You need some browser extension like [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)(Chrome) to install userscript.
 
 It stored a list into your local Storage.
 
