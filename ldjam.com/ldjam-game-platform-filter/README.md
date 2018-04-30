@@ -1,5 +1,5 @@
 # LDjam-Game-Platform-Filter-Userscript
-Add games into a list, so I can play it later
+Filter Games by Platform
 
 You need some browser extension like [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)(Chrome) to install userscript.
 
